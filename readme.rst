@@ -11,7 +11,7 @@
 5) 	Javascript, Jquery
 
 **Para ejecutar el proyecto instalar en un ambiente LAMP, puede ser en XAMPP o WAMP**
-
+Cargar la base de datos del archivo codeigniter_db.sql
 Tienda - localhost/mobo			
 Administrador Backend - localhost/mobo/administrator		
 	UserName - gabrieltemi@gmail.com		
